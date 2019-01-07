@@ -1,0 +1,23 @@
+h1{
+	text-align: center;
+}
+.img_load{
+
+	max-width: 350px; 
+	max-height: 250px ; 
+	margin : 15px;
+}
+
+#galerie{
+
+	background-color: #c1e2e3 ; 
+	margin-top: 50px ; 
+	margin-left: 50px ; 
+	margin-bottom: 50px ; 
+	margin-right: 50px ;
+
+	padding-top: 10px ; 
+	padding-left: 10px ; 
+	padding-bottom: 10px ; 
+	padding-right: 10px ;   
+}

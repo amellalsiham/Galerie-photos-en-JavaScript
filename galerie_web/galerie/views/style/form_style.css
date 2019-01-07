@@ -1,0 +1,45 @@
+
+body{
+	margin: 0; 
+	padding: 0;
+	font-family: sans-serif;
+	background: url(images/green.jpg);
+	background-size: cover;
+}
+
+input{
+	padding: 5px; 
+}
+
+.login {
+	width: 380 px ;
+	padding-left: 60px;  
+	padding-right: 60px; 
+	padding-top: 40px; 
+	padding-bottom: 60px; 
+	position: absolute;
+	top: 50% ; 
+	left: 50% ; 
+	transform: translate(-50%,-50%);
+	color: black ; 
+	
+
+}
+
+.login h1{
+	float: left;
+	font-size: 40px ; 
+	border-bottom: 6px solid #bdc1c1;
+	margin-bottom: 50px ;  
+	padding: 13px ; 
+}
+
+.textbox{
+	width: 100% ; 
+	overflow: hidden;
+	font-size: 20px ; 
+	padding: 8px 0; 
+	margin: 8px 0; 
+	border-bottom: 1px solid #bdc1c1; 
+}
+
